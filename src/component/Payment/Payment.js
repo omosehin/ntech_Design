@@ -99,7 +99,7 @@ const Payment = () => {
 
         <div className='summary'>
             <div className='flex-3'>
-                <h3>Subtitle</h3>
+                <h3>Subtotal</h3>
                 <h3>₦2,497.00</h3>
             </div>
             <div>
