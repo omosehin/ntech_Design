@@ -129,6 +129,11 @@ button{
     color: white;
     margin-bottom: 30px;
 }
+.promotionalCode{
+    color: rgba(131, 131, 131, 0.199);
+    font-weight: normal;
+    margin-left: 5px;
+}
 @media (max-width: 768px) {
     .payment_header_row{
         display:flex;

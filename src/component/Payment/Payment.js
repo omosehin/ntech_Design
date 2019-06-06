@@ -110,7 +110,9 @@ const Payment = () => {
             </div>
             <div>
             <div className='flex-3'>
-                <h3>Promotional Code:Z4KXLM9A</h3>
+                <h3>Promotional Code:</h3>
+                <h3 className="promotionalCode">Z4KXLM9A</h3>
+                <p className='spacer'></p>
                 <h3>₦-60.00</h3>
             </div>
             </div>
